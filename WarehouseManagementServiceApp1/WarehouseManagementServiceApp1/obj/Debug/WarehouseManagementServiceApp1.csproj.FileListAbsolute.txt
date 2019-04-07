@@ -1,0 +1,6 @@
+D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\bin\WarehouseManagementServiceApp1.dll.config
+D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\bin\WarehouseManagementServiceApp1.dll
+D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\bin\WarehouseManagementServiceApp1.pdb
+D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\obj\Debug\WarehouseManagementServiceApp1.csprojResolveAssemblyReference.cache
+D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\obj\Debug\WarehouseManagementServiceApp1.dll
+D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\obj\Debug\WarehouseManagementServiceApp1.pdb
