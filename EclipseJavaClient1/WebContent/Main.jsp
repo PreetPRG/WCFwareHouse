@@ -20,7 +20,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <div class="w3-top">
   <div class="w3-bar w3-red w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="HomeServlet" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+    <a href="HomeServlet" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Home</a>
     <a href="/EclipseJavaClient1/Search.jsp" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Search Record</a>
     <a href="/EclipseJavaClient1/Update.jsp" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Update Record</a>
     <a href="/EclipseJavaClient1/Delete.jsp" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Delete Record</a>
@@ -38,21 +38,20 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
 <!-- Header -->
 <header class="w3-container w3-red w3-center" style="padding:128px 16px">
-  <h1 class="w3-margin w3-jumbo">START PAGE</h1>
-  <p class="w3-xlarge">Template by w3.css</p>
-  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button>
+  <h1 class="w3-margin w3-jumbo">THE WAREHOUSE MANAGEMENT SERVICE</h1>
+  <!-- <p class="w3-xlarge">Template by w3.css</p>-->
+  <!-- <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button>-->
 </header>
 
 <!-- First Grid -->
 <div class="w3-row-padding w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-twothird">
-      <h1>Lorem Ipsum</h1>
-      <h5 class="w3-padding-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
-
-      <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+      Seek our fundamental need of mankind through scientific and sociocultural fields. Through innovation and impactful research, bring efficient out came and materialized in the benefits of all.
     </div>
 
     <div class="w3-third w3-center">
@@ -64,17 +63,11 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <!-- Second Grid -->
 <div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
   <div class="w3-content">
-    <div class="w3-third w3-center">
-      <i class="fa fa-coffee w3-padding-64 w3-text-red w3-margin-right"></i>
-    </div>
+    
 
     <div class="w3-twothird">
-      <h1>Lorem Ipsum</h1>
-      <h5 class="w3-padding-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
-
-      <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat.</p>
+     
+      
     </div>
   </div>
 </div>
@@ -93,7 +86,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <i class="fa fa-twitter w3-hover-opacity"></i>
     <i class="fa fa-linkedin w3-hover-opacity"></i>
  </div>
- <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+ <!-- <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>-->
 </footer>
 
 <script>
